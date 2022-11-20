@@ -1,1 +1,1 @@
-Implementatino of the popular game Wordle in Rust
+Implementation of the popular game 'Wordle' in Rust
